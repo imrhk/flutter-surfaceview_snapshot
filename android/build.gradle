@@ -40,6 +40,4 @@ android {
 
 dependencies {
     implementation "org.jetbrains.kotlin:kotlin-stdlib-jdk7:$kotlin_version"
-    //implementation 'androidx.annotation:annotation:1.1.0'
-    //implementation files('/Users/rahul/Library/flutter/flutter/bin/cache/artifacts/engine/android-x64/flutter.jar')
 }
